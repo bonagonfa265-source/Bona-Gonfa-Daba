@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing diamond backdrop aura -->
+    <path
+        android:pathData="M54,28 L79,45 L54,78 L29,45 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="29"
+                android:startY="28"
+                android:endX="79"
+                android:endY="78"
+                android:type="linear">
+                <item android:color="#2000E5FF" android:offset="0.0" />
+                <item android:color="#357000FF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top table facet -->
+    <path
+        android:pathData="M39,33 L69,33 L62,43 L46,43 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="39"
+                android:startY="33"
+                android:endX="69"
+                android:endY="43"
+                android:type="linear">
+                <item android:color="#E0F7FA" android:offset="0.0" />
+                <item android:color="#80DEEA" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top left corner facet -->
+    <path
+        android:pathData="M39,33 L30,43 L46,43 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="33"
+                android:endX="46"
+                android:endY="43"
+                android:type="linear">
+                <item android:color="#80DEEA" android:offset="0.0" />
+                <item android:color="#26C6DA" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top right corner facet -->
+    <path
+        android:pathData="M69,33 L62,43 L78,43 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="62"
+                android:startY="33"
+                android:endX="78"
+                android:endY="43"
+                android:type="linear">
+                <item android:color="#B2EBF2" android:offset="0.0" />
+                <item android:color="#00ACC1" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Center lower kite facet -->
+    <path
+        android:pathData="M46,43 L62,43 L54,75 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="43"
+                android:endX="54"
+                android:endY="75"
+                android:type="linear">
+                <item android:color="#00E5FF" android:offset="0.0" />
+                <item android:color="#0091EA" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Bottom left facet -->
+    <path
+        android:pathData="M30,43 L46,43 L54,75 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="43"
+                android:endX="54"
+                android:endY="75"
+                android:type="linear">
+                <item android:color="#00BCD4" android:offset="0.0" />
+                <item android:color="#006064" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Bottom right facet -->
+    <path
+        android:pathData="M62,43 L78,43 L54,75 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="62"
+                android:startY="43"
+                android:endX="78"
+                android:endY="75"
+                android:type="linear">
+                <item android:color="#0097A7" android:offset="0.0" />
+                <item android:color="#01579B" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Stylized printing brush / palette dynamic swirl -->
+    <path
+        android:pathData="M27,62 C33,74 45,82 60,82 C72,82 82,75 83,67 C83,62 78,59 74,62 C70,65 67,69 60,69 C48,69 38,62 36,55 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="27"
+                android:startY="62"
+                android:endX="83"
+                android:endY="82"
+                android:type="linear">
+                <item android:color="#FFB300" android:offset="0.0" />
+                <item android:color="#FF6D00" android:offset="0.5" />
+                <item android:color="#7C4DFF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Creative star sparkle -->
+    <path
+        android:pathData="M73,28 L75,32 L79,34 L75,36 L73,40 L71,36 L67,34 L71,32 Z"
+        android:fillColor="#FFFFFF" />
+
+</vector>

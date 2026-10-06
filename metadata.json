@@ -1,0 +1,6 @@
+{
+  "name": "Bona G",
+  "description": "Design • Print • Order from Home. Bona G creative design and printing studio app for custom T-shirts, banners, stickers, logos, and posters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
